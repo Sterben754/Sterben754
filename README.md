@@ -1,0 +1,6 @@
+-  Hi, I’m @Sterben754
+-  I’m interested only in my future.
+-  I’m currently learning django.
+-  I’m looking to collaborate on ...
+-  You can write to me by telegram: @Chozanafig309
+-  Pronouns: male, nothing else.
